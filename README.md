@@ -1,2 +1,3 @@
-# squash-test
-just a repo to test some issues around squashing commits
+# YO!
+
+This is just a change so I can test out some stuff
